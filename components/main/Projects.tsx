@@ -20,11 +20,13 @@ const Projects = () => {
           description="Get support"
         />
         <ProjectCard
+            logoSrc=""
           src="/CardImage.png"
           title="Blog"
           description="Insights and news from the team"
         />
         <ProjectCard
+            logoSrc=""
           src="/SpaceWebsite.png"
           title="Stay Connted"
           description="Follow @Uniswap on X for the latest updates"
